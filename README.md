@@ -1,4 +1,4 @@
 iptables-setup
 ==============
 
-A general iptables/netfilter init script
+A set of general iptables/netfilter scripts
